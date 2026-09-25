@@ -106,9 +106,8 @@ This project demonstrates how programming concepts can be used to model a simpli
 
 Add your name here before submitting:
 
-**Name:** _Your Name_
+**Name:** Ritesh Singh
 **Project:** Banking System – Mini Project
-**Submission Deadline:** 25th September
 
 ---
 
