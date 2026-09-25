@@ -83,11 +83,113 @@ python banking_system.py
 
 ```
 =============================================
-           WELCOME TO PYTHON BANK
+            WELCOME TO PYTHON BANK           
 =============================================
 1. Create Account
 2. Login
 3. Exit
+
+Enter your choice (1-3): 1
+
+=============================================
+              CREATE NEW ACCOUNT             
+=============================================
+Enter your full name: Ritesh Singh
+Enter your phone number (10 digits): 8976452301
+Create a 4-digit PIN: 0000
+
+Account created successfully!
+Your Account Number is: 782630
+Please save this number safely - you will need it to log in.
+
+Press Enter to continue...
+
+=============================================
+            WELCOME TO PYTHON BANK           
+=============================================
+1. Create Account
+2. Login
+3. Exit
+
+Enter your choice (1-3): 2
+
+=============================================
+                    LOGIN                    
+=============================================
+Enter Account Number: 782630
+Enter PIN: 0000
+
+Welcome back, Ritesh Singh!
+
+Press Enter to continue...
+
+=============================================
+         ACCOUNT MENU - Ritesh Singh         
+=============================================
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Transaction History
+6. Change PIN
+7. Logout
+
+Enter your choice (1-7): 2
+
+=============================================
+                DEPOSIT MONEY                
+=============================================
+Enter amount to deposit: Rs. 54500  
+Rs. 54500.00 deposited successfully!
+New Balance: Rs. 54500.00
+
+Press Enter to continue...
+
+=============================================
+         ACCOUNT MENU - Ritesh Singh         
+=============================================
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Transaction History
+6. Change PIN
+7. Logout
+
+Enter your choice (1-7): 3
+
+=============================================
+                WITHDRAW MONEY               
+=============================================
+Enter amount to withdraw: Rs. 500
+Rs. 500.00 withdrawn successfully!
+New Balance: Rs. 54000.00
+
+Press Enter to continue...
+
+=============================================
+         ACCOUNT MENU - Ritesh Singh         
+=============================================
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Transaction History
+6. Change PIN
+7. Logout
+
+
+Enter your choice (1-7): 5
+
+=============================================
+             TRANSACTION HISTORY             
+=============================================
+1. [25-09-2026 06:15 PM] Account created
+2. [25-09-2026 06:17 PM] Deposited Rs. 54500.00
+3. [25-09-2026 06:17 PM] Withdrew Rs. 500.00
+
+Press Enter to continue...
+
 ```
 
 ---
